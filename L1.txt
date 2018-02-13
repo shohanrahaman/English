@@ -1,0 +1,69 @@
+ #"Be" verbs follow the subject in the sentence :
+
+---------------------Present----------------------------
+
+	Ex : We are happy.
+	
+	i am
+	you are 
+	he is
+	she is
+	it is
+	we are
+	they are
+
+----------------------Nagative----------------------------
+
+	Ex : He is not sleepy.
+
+	i am not
+	you are not
+	he is not
+	she is not
+	it is not
+	we are not
+	they are not
+
+-----------------------Interrogative--------------------------
+
+	Ex : Am I a doctor ?
+
+	am i ?
+	are you ?
+	is he ?
+	is she ?
+	is it ?
+	are we ?
+	are they ?
+
+	==================== 
+
+	Ex : Aren't they Student ?
+
+	amn't i ?
+	aren't you ?
+	isn't he ?
+	isn't she ?
+	isn't it ?
+	aren't we ?
+	aren't they ?
+
+-------------------------Action Verb-----------------------------
+
+	# Rules for - He, She, It = Verb + (S)
+
+	Ex : She walks in the park.
+
+----------------------------------------------------------------------------------------------
+
+	# I/YOU/WE/THEY - do not / don't
+
+	Ex : I don't eat chocolate.
+
+	# He/She/it - does not / doesn't
+
+	Ex : He doesn't walk.
+
+
+
+
