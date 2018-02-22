@@ -1,0 +1,7 @@
+ # Who -- who is used to find out the person of interest
+ # Where -- where is used to find out a place
+ # When -- when is used to find out the time
+ # Why -- why is used to find out the reson for something
+ # What -- what is used to find out something
+ # Which -- which is used to find out information between two or more subjects
+ # How -- how is used to find out the way something is done
