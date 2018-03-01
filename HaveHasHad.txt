@@ -1,0 +1,16 @@
+	
+	=======Have, Has, Had======
+
+
+	I have an American passport.
+
+	He has an American passport.
+
+	She had an American passport.
+
+
+	I don't have an American passport.
+
+	He doesn't have an American passport.
+
+	She didn't have an American passport.
