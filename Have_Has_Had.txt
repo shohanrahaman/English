@@ -1,0 +1,33 @@
+		HAVE/HAS/HAD ------ DON'T HAVE/DOESN'T HAVE/DIDN'T HAVE
+	        ===========================------============================
+
+	I have a car
+		I don't have a car
+
+	We have a car
+		We don't have a car
+
+	They have a car
+		They don't have a car
+
+	He has a car
+		He doesn't have a car
+
+	She has a car 
+		She doesn't have a car
+
+	I had a car
+		I didn't have a car
+
+	We had a car
+		We didn't have a car
+
+	They had a car
+		They didn't have a car
+
+	He had a car
+		He didn't have a car
+
+	She had a car
+		She didn't have a car
+
